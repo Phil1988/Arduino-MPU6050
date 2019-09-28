@@ -1,7 +1,10 @@
 Arduino-MPU6050
 ===============
 
-MPU6050 Triple Axis Gyroscope & Accelerometer Arduino Library.
+
+This is a fork of Korneliusz Jarzębskis (jarzebski) great MPU6050 Arduino library made ESP8266 and ESP32 compatible.
+
+The MPU6050 is a Triple Axis Gyroscope & Accelerometer.
 
 ![MPU6050 Processing](http://www.jarzebski.pl/media/zoom/publish/2014/10/mpu6050-processing-2.png "MPU6050 Processing")
 

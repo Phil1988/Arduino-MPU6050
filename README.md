@@ -2,7 +2,7 @@ Arduino-MPU6050
 ===============
 
 
-This is a fork of Korneliusz Jarzębskis (jarzebski) great MPU6050 Arduino library made ESP8266 and ESP32 compatible.
+This is a fork of Korneliusz Jarzębskis (jarzebski) great MPU6050 Arduino library to make it ESP8266 and ESP32 compatible.
 
 The MPU6050 is a Triple Axis Gyroscope & Accelerometer.
 
@@ -12,7 +12,7 @@ Tutorials: http://www.jarzebski.pl/arduino/czujniki-i-sensory/3-osiowy-zyroskop-
 
 This library use I2C to communicate, 2 pins are required to interface
 
-I need your help
+He needs your help
 ----------------
 
 July 31, 2017
